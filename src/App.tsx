@@ -56,7 +56,7 @@ export default function App() {
     
     if (isBranchValid && selectedDate && selectedTime && bookingName && bookingPhone) {
       // Integration with Google Sheets / Webhook
-      const GOOGLE_SHEETS_WEBHOOK_URL = import.meta.env.VITE_GOOGLE_SHEETS_WEBHOOK || 'https://script.google.com/macros/s/AKfycbyCB4v_pUIevJ_jlQ1FC0MrXCAaMnUbAgE-wJ51ZL3zzTbOAZ50LIANHOLtKjf428p0/exec';
+      const GOOGLE_SHEETS_WEBHOOK_URL = import.meta.env.VITE_GOOGLE_SHEETS_WEBHOOK || 'https://script.google.com/macros/s/AKfycbwAsxVHRvfI7EQ1MfRjtU2M_6p6mwB5NJ_edbIQXsX1TXHjno7Q3UXA3vTrdcZWFGoi/exec';
       
       const payload = {
         type: bookingType,
