@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Special Offers",
+    "branches": "Branches",
+    "contacts": "Contacts",
+    "book": "Book Online"
+  },
+  "hero": {
+    "badge": "Super Offer!",
+    "title": "Implant 2+1! One implant as a gift 🎁",
+    "subtitle": "Arlan Med — 4 branches in Almaty. We save hopeless teeth, install durable implants, and bring back your confident smile. Book now!",
+    "cta": "Get free implant (0 tg)",
+    "rating": "4.9 on 2GIS (78+ reviews)",
+    "hours": "Daily 09:00 - 19:00",
+    "branchesCount": "4 branches in Almaty"
+  },
+  "promos": {
+    "title": "Special offers for you",
+    "implant": {
+      "title": "Implants 2+1 🔥",
+      "desc": "Install 2 implants and get the 3rd ABSOLUTELY FREE! Reliable materials and painless installation."
+    },
+    "plates": {
+      "title": "Children's plates",
+      "desc": "Straight teeth from childhood! Installation from 70,000 tg. Friendly pediatric dentists."
+    },
+    "treatment": {
+      "title": "Caries treatment",
+      "desc": "Treatment without pain and fear. We save teeth of any complexity, from 15,000 tg."
+    },
+    "veneers": {
+      "title": "Hollywood smile",
+      "desc": "Premium veneers for perfect aesthetics. Delicate work and quality guarantee."
+    },
+    "crowns": {
+      "title": "Reliable crowns",
+      "desc": "Crowns that are indistinguishable from native teeth. From 50,000 tg per unit."
+    }
+  },
+  "benefits": {
+    "title": "Why choose Arlan Med?",
+    "b1Title": "4 Branches",
+    "b1Desc": "Easy to reach from anywhere in Almaty.",
+    "b2Title": "Installment Plan",
+    "b2Desc": "Treat now, pay later with no overpayments.",
+    "b3Title": "Guarantee",
+    "b3Desc": "We stand behind the quality of our work.",
+    "b4Title": "Experienced Doctors",
+    "b4Desc": "Solving the most complex cases without pain."
+  },
+  "about": {
+    "awardsTitle": "2GIS Awards",
+    "award1": "Nominee 2026",
+    "award2": "Best Dentistry 2025",
+    "servicesTitle": "Dental Services",
+    "services": [
+      "Adult Orthodontist",
+      "Adult Orthopedic Dentist",
+      "Adult Dental Surgeon",
+      "Implantation",
+      "Adult Periodontist",
+      "Pediatric Dental Therapist",
+      "Pediatric Orthodontist",
+      "Pediatric Dental Surgeon",
+      "Targeted tooth X-ray",
+      "Free consultation",
+      "Adult emergency"
+    ],
+    "paymentsTitle": "Payment Methods",
+    "payments": [
+      "Card payment",
+      "Cash payment",
+      "Bank payment",
+      "QR-code payment"
+    ]
+  },
+  "booking": {
+    "badge": "24/7 Booking",
+    "title": "Book in 30 seconds",
+    "subtitle": "Automated online booking system. No calls, no waiting.",
+    "type": "Appointment Type",
+    "typeOffline": "In Clinic",
+    "typeOnline": "Online Consultation",
+    "step1": "Choose Branch",
+    "step2": "Select Date",
+    "step3": "Select Time",
+    "step4": "Your Details",
+    "branch1": "Comfort RC (Serkebaev Ave, 107)",
+    "branch2": "Khan Tengri RC (Kenesary Khan st, 54/41 b1)",
+    "branch3": "Alatau City RC (Daraboz md, 43)",
+    "branch4": "Khaliullin st, 140/5 b2",
+    "name": "Your Name",
+    "phone": "Phone Number",
+    "issue": "Describe your issue",
+    "submit": "Confirm Booking 🚀",
+    "success": "Successfully Booked!",
+    "successDesc": "We look forward to seeing you. The administrator will contact you for confirmation."
+  },
+  "footer": {
+    "license": "License No. 22021394. Department of Medical and Pharmaceutical Control of the Ministry of Health of Almaty.",
+    "writeUs": "Contact via WhatsApp",
+    "open": "Open"
+  }
+}
